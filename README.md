@@ -1,1 +1,1 @@
-# Aortic-Dissectoin-Image-Cropping-Tool
+# Aortic-Dissection-Image-Cropping-Tool
